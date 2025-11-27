@@ -1,0 +1,13 @@
+#appBtn{
+  height: 40px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  color: red;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
